@@ -30,8 +30,10 @@ Bootstrap Bootstrap Bootstrap Bootstrap Bootstrap Bootstrap Bootstrap Bootstrap 
 
 git linux matlab mysql opencv pandas python pytorch scikit_learn seaborn tensorflow
 
+[![Linkedin](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](www.linkedin.com/in/mr-michal-robak)
 
-<a href="www.linkedin.com/in/mr-michal-robak"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"></a>
+
+<a href="www.linkedin.com/in/mr-michal-robak" target="_blank">www.linkedin.com/in/mr-michal-robak<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"></a>
 
 ###
 
