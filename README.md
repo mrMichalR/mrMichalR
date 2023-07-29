@@ -6,11 +6,13 @@
 
 Welcome to my GitHub profile - enthusiast of Phyton programming langueage and Data Science field. 
 
+[![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/mr-michal-robak)
+
 ###
 
 <div id="badges">
-  <a href="www.linkedin.com/in/mr-michal-robak">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="www.linkedin.com/in/mr-michal-robak" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
   <a href=mailto:mr.michal.robak@gmail.com subject="HTML link">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
