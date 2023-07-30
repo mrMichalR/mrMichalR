@@ -1,24 +1,34 @@
 ### 
 <h1 align="center">
-  Hey there!
+  Welcome to my GitHub profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  
+  <b>I am Michal, enthusiast of Phyton programming language and Data Science field.
+  
+  </b>
 </h1>
 
 <div align="center">
-  <img src="https://giphy.com/gifs/code-ko7twHhomhk8E" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/7c8QeB0VMddFOuu4iR/giphy.gif" width="320px" height=180/>
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="320px" height=180/>
 </div>
 
+###
 
-Welcome to my GitHub profile - enthusiast of Phyton programming langueage and Data Science field. 
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=mrMichalR&style=flat-square&color=blue" alt=""/>
+</div>
+
+###
+<h2 align="center">
+  
+</h2>
 
 - 🔭 I’m currently working on Application that checks online shops stock.
-  
 
 - 🌱 I’m currently learning Website scrapping & HTML inspecting.
   
-  
 - 👯 I’m looking to collaborate on every kind of Python apllication or Data Science comercial projects. 
-  
   
 - 📫 How to reach me:
 <div align="center">
@@ -30,7 +40,9 @@ Welcome to my GitHub profile - enthusiast of Phyton programming langueage and Da
   </a>
 </div>
 
-🖥 Skills
+###
+
+<h3 align="left">🖥 Skills</h3>
 
 - Python
 - Machine Learning
@@ -39,37 +51,57 @@ Welcome to my GitHub profile - enthusiast of Phyton programming langueage and Da
 - Computer Vision
 - Problem-solving
 
-
-⚙️ Tech Stack
-
-
-git linux matlab mysql opencv pandas python pytorch scikit_learn seaborn tensorflow
-
-
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h4 align="left">🛠 Language and tools</h4>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" height="50" alt="linux logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40" alt="rust logo"  />
+  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" height="50" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" height="50" alt="jupyter logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
+  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="50" alt="sklearn logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
+
+   <body style="background-color:white;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" height="50" alt="pandas logo" /> 
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
+  </body>  
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" height="50" alt="numpy logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
+
+  <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" height="50" alt="seaborn logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+
+  <img src="https://matplotlib.org/3.1.1/_static/logo2_compressed.svg" height="50" alt="plt logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" height="50" alt="git logo"  />
+  <img width="12" />
+  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" height="50" alt="tf logo"  />
+  <img width="12" />
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" height="50" alt="pytorch logo"  />
+  <img width="12" />
+  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" height="50" alt="postgre sql logo"  />
+  <img width="12" />
+  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" height="50" alt="opencv logo"  />
+  <img width="12" />
+  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/labview/labview-original-wordmark.svg" height="50" alt="matplotlib logo"  />
+  <img width="12" />
+
 </div>
 
 ###
@@ -79,26 +111,6 @@ git linux matlab mysql opencv pandas python pytorch scikit_learn seaborn tensorf
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=mrMichalR&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrMichalR&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
-
-###
